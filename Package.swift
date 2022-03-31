@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "EDNAChatCenter",
             url: "https://github.com/ThreadsMobileLib/edna-sdk-ios/releases/download/v4.0.4/threads-4.0.4.zip",
-            checksum: "35cec37a3b03821192289361971cc951cfe85bbd04036eed2d4476e4fd2338fd"
+            checksum: "8ca3bbce48f29d96662b63661b05358e2bc7955a5fa868345177920ef02ed970"
         ),
     ]
 )
